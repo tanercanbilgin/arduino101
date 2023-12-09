@@ -16,8 +16,10 @@ In tandem with complete projects, I've meticulously curated standalone code exam
 
 ## Repository Structure
 
-- `code-examples/`: A treasure trove of standalone Arduino code snippets, each meticulously designed to elucidate specific concepts.
-- `LICENSE`: A comprehensive explanation of the open-source licensing underpinning this repository.
+- `basics/`: Fundamental Arduino code snippets providing a solid foundation for understanding key concepts.
+- `projects/`: Exciting and complete Arduino projects showcasing practical applications of learned concepts.
+- `LICENSE`: Comprehensive information on the open-source licensing governing this repository.
+- `README.md`: The main documentation file providing an overview of the repository and its structure.
 
 ## Contributing
 
