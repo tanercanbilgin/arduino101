@@ -31,7 +31,6 @@ You're welcome to reach out through the following avenues:
 
 - **Email:** [tanercanbilgin@gmail.com](mailto:tanercanbilgin@gmail.com)
 - **LinkedIn:** [Tanercan Bilgin](https://www.linkedin.com/in/tanercanbilgin)
-- **GitHub:** [@tanercanbilgin](https://github.com/tanercanbilgin)
 
 ## License
 
